@@ -1,0 +1,6 @@
+[submodule "hugo-static-resume/themes/hugo-toha-theme"]
+	path = hugo-static-resume/themes/hugo-toha-theme
+	url = https://github.com/hossainemruz/toha.git
+[submodule "hugo-static-dev-resume/themes/hugo-devresume-theme"]
+	path = hugo-static-dev-resume/themes/hugo-devresume-theme
+	url = https://github.com/cowboysmall-tools/hugo-devresume-theme.git
